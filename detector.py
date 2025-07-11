@@ -1,7 +1,6 @@
 from scapy.all import *
 import sys
 
-# Complete this function!
 def process_pcap(pcap_fname):
     synLst = {}
     ackLst = {}
